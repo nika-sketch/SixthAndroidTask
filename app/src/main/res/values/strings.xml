@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentWithValues</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_gender">Enter Gender</string>
+    <string name="text">text</string>
+    <string name="nika">Nika</string>
+    <string name="latsabidze">Latsabidze</string>
+    <string name="latsabidze_nikolozi_gmail_com">latsabidze.nikolozi@gmail.com</string>
+    <string name="_2001">2001</string>
+    <string name="male">Male</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="changed">CHANGED</string>
+</resources>
